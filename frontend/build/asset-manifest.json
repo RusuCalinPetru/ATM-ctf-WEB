@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e86027f1.css",
+    "main.js": "/static/js/main.6cbbdb1b.js",
+    "static/media/404.gif": "/static/media/404.bc36a41b896a276c52a7.gif",
+    "static/media/Doctor Glitch.otf": "/static/media/Doctor Glitch.dba195ec081494ebf1e4.otf",
+    "static/media/bg--world.png": "/static/media/bg--world.e2b7596d50779caae81c.png",
+    "static/media/sponsor2.png": "/static/media/sponsor2.ffc41b927b4148a8b114.png",
+    "static/media/PhelixBoomgartner.otf": "/static/media/PhelixBoomgartner.a83cf6289b12300bcf84.otf",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.e86027f1.css",
+    "static/js/main.6cbbdb1b.js"
+  ]
+}
